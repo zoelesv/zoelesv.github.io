@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zoelesv.github.io/blog</id>
     <title>Zoe Le Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-11-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zoelesv.github.io/blog"/>
     <subtitle>Zoe Le Blog</subtitle>
     <icon>https://zoelesv.github.io/img/pp.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Academic Life]]></title>
+        <id>https://zoelesv.github.io/blog/life</id>
+        <link href="https://zoelesv.github.io/blog/life"/>
+        <updated>2024-11-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I'm Zoe]]></summary>
+        <content type="html"><![CDATA[<p>Hi, I'm Zoe</p>
+<p>Welcome to my journal. Reflecting on my academic journey, I’ve noticed a recurring pattern of deep learning every five years.</p>
+<p>From ages 7 to 12, I focused on competitive math. I was very proud to get some money reward every single year from doing this.
+Afterward, as soon as I was introduced to Physics, I loved it. I spent the first year simply getting acquainted with the subject. That led to five years of competitive physics from ages 13 to 18, during which I was part of a gifted class in high school.</p>
+<p>However, pursuing a career in science wasn’t encouraged in Vietnam where I grew up, so I didn’t continue in that field. I also came to realize that life is much more than theory.</p>
+<p>Now, as I work in data science, I find myself looking back on everything I’ve done that has led me to this point and how it all connects.</p>]]></content>
+        <author>
+            <name>Zoe</name>
+            <uri>https://eztechstudios.com</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://zoelesv.github.io/blog/welcome</id>
